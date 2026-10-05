@@ -8,11 +8,11 @@
 
 🚀 About Me
 
-	•	☁️ Cloud and systems engineer based in Cairo, Egypt, working across AWS, Azure, Linux and networking
-	•	🛠️ Technical Operations Manager at Takween United Publishing: I run the production Linux server, the mobile app backend, the internal dashboard and the company website
-	•	💊 Building and operating PharmaLink, a live B2B pharmaceutical supply platform in Sudan (pharmalink-sd.com)
-	•	🏦 Banking-sector background from RCB Bank (Active Directory, network monitoring, SAN backup verification)
-	•	📚 Currently preparing for the AWS Solutions Architect – Associate exam
+- ☁️ Cloud and systems engineer based in **Cairo, Egypt**, working across **AWS, Azure, Linux and networking**
+- 🛠️ **Technical Operations Manager** at Takween United Publishing: I run the production Linux server, the mobile app backend, the internal dashboard and the company website
+- 💊 Building and operating **PharmaLink**, a live B2B pharmaceutical supply platform in Sudan ([pharmalink-sd.com](https://pharmalink-sd.com))
+- 🏦 Banking-sector background from **RCB Bank** (Active Directory, network monitoring, SAN backup verification)
+- 📚 Currently preparing for the **AWS Solutions Architect – Associate** exam
 
 🧰 Tech Stack
 
